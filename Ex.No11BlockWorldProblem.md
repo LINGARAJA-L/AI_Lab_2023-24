@@ -60,7 +60,7 @@ Step 10 : Obtain the plan for given problem.<br>
  :effect (and (holding ?ob) (clear ?underob)
  (not (on ?ob ?underob)) (not (clear ?ob)) (not (arm-empty)))))
 ```
-### Input 
+### InpuT:
 ```
 (define (problem pb1)
  (:domain blocksworld)
