@@ -11,26 +11,7 @@ To write a logic program to design a circuit like half adder and half subtractor
 6. Design a half adder and half subtractor using the rules.
 7. Test the logic.
 8. Stop the program.
-```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
 ### Program:
 ```
 and(0,0,0).
@@ -64,16 +45,6 @@ halfsubtractor(A, B, Difference, Borrow):-
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/98b478b2-476a-4361-9360-dff1b798a2e3)
-```
-
-
-
-
-
-
-
-```
-
 
 
 ### Result:
