@@ -93,16 +93,6 @@ Problem :
 ### Output/Plan:
 ![279587610-e0b14ce5-9295-4b5e-ab72-323b77764cdb](https://github.com/Kamaleshsaravan/AI_Lab_2023-24/assets/160414936/49f0a907-60b5-4702-8d7f-d8bbdfcb4721)
 
-```
-
-
-
-
-
-
-
-
-```
 
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
