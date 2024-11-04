@@ -18,14 +18,6 @@ Construct the FOL representation for the following sentences <br>
 4.	Sue eats everything Bill eats. <br> 
 5.	 Bill eats peanuts  <br> 
    Convert into clause form and Prove that John like Apple by using Prolog. <br>
-   ```
-
-
-
-
-
-
-```
 ### PROGRAM :
 ```
 likess(john,X):-food(X).
@@ -42,15 +34,7 @@ eats(bill,peanuts).
 ### OUTPUT:
 ![Screenshot 2024-03-09 160515](https://github.com/KATHIR1611/AI_Lab_2023-24/assets/128135186/246b8c5b-5caf-49a0-8086-9f247558610c)
 
-```
 
-
-
-
-
-
-
-```
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
 1.	Steve likes easy courses. <br> 
